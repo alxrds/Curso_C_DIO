@@ -1,0 +1,15 @@
+D:\Desenvolvimento\Estudos\C#\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Estudos\C#\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Estudos\C#\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Estudos\C#\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.AssemblyInfo.cs
+D:\Desenvolvimento\Estudos\C#\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Estudos\C#\ExemploFundamentos\bin\Debug\net7.0\ExemploFundamentos.exe
+D:\Desenvolvimento\Estudos\C#\ExemploFundamentos\bin\Debug\net7.0\ExemploFundamentos.deps.json
+D:\Desenvolvimento\Estudos\C#\ExemploFundamentos\bin\Debug\net7.0\ExemploFundamentos.runtimeconfig.json
+D:\Desenvolvimento\Estudos\C#\ExemploFundamentos\bin\Debug\net7.0\ExemploFundamentos.dll
+D:\Desenvolvimento\Estudos\C#\ExemploFundamentos\bin\Debug\net7.0\ExemploFundamentos.pdb
+D:\Desenvolvimento\Estudos\C#\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.dll
+D:\Desenvolvimento\Estudos\C#\ExemploFundamentos\obj\Debug\net7.0\refint\ExemploFundamentos.dll
+D:\Desenvolvimento\Estudos\C#\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.pdb
+D:\Desenvolvimento\Estudos\C#\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.genruntimeconfig.cache
+D:\Desenvolvimento\Estudos\C#\ExemploFundamentos\obj\Debug\net7.0\ref\ExemploFundamentos.dll
