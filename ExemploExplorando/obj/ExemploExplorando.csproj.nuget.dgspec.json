@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desenvolvimento\\Estudos\\C#\\ExemploExplorando\\ExemploExplorando.csproj": {}
+    "D:\\Desenvolvimento\\Estudos\\C#\\Curso_C_DIO\\ExemploExplorando\\ExemploExplorando.csproj": {}
   },
   "projects": {
-    "D:\\Desenvolvimento\\Estudos\\C#\\ExemploExplorando\\ExemploExplorando.csproj": {
+    "D:\\Desenvolvimento\\Estudos\\C#\\Curso_C_DIO\\ExemploExplorando\\ExemploExplorando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desenvolvimento\\Estudos\\C#\\ExemploExplorando\\ExemploExplorando.csproj",
+        "projectUniqueName": "D:\\Desenvolvimento\\Estudos\\C#\\Curso_C_DIO\\ExemploExplorando\\ExemploExplorando.csproj",
         "projectName": "ExemploExplorando",
-        "projectPath": "D:\\Desenvolvimento\\Estudos\\C#\\ExemploExplorando\\ExemploExplorando.csproj",
+        "projectPath": "D:\\Desenvolvimento\\Estudos\\C#\\Curso_C_DIO\\ExemploExplorando\\ExemploExplorando.csproj",
         "packagesPath": "C:\\Users\\Alexandre\\.nuget\\packages\\",
-        "outputPath": "D:\\Desenvolvimento\\Estudos\\C#\\ExemploExplorando\\obj\\",
+        "outputPath": "D:\\Desenvolvimento\\Estudos\\C#\\Curso_C_DIO\\ExemploExplorando\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexandre\\AppData\\Roaming\\NuGet\\NuGet.Config"
